@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+![Obi wan gif for hello there](https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
 
+I am a software architecture enthusiast; I enjoy optimizing the design of even the simplest of systems to reduce redundancies and enable proper separation of concerns; and hyperfocused on reusability. Now, I am bringing that enthusiasm to large language models and computational social science.
+A perennial student at the crossroads of machine learning and software engineering, I have always been particularly drawn to self-sustainability as a key tenet of software engineering. I experienced life as a software engineer starting from my BS/MS at the Rochester Institute of Technology followed by working as a Full-Stack Developer when I transitioned to working on my Ph.D. in Natural Language Processing for Social Good.
 <!--
 **towhidabsar/towhidabsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
